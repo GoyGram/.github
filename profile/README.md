@@ -21,7 +21,7 @@ Our tools are built on three core pillars:
 * **[GoyGram/GoyGram](https://github.com/GoyGram/GoyGram)** — The core framework. Dual transport (Bot API + MTProto), dynamic dispatch, and raw TCP performance.
 
 ## 📚 Resources
-* [**Official Wiki**](https://github.com/GoyGram/GoyGram/wiki) — 55+ pages of hardcore documentation. Read the manual.
+* [**Official Wiki**](https://github.com/GoyGram/GoyGram/wiki) — 67 pages of hardcore documentation. Read the manual.
 * [**PyPI Package**](https://pypi.org/project/goygram/) — Pre-built wheels for Linux, Windows, and macOS (x86-64 + ARM64).
 
 ---
