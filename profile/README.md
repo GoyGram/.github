@@ -19,7 +19,6 @@ Our tools are built on three core pillars:
 ## 📦 Main Repositories
 
 * **[GoyGram/GoyGram](https://github.com/GoyGram/GoyGram)** — The core framework. Dual transport (Bot API + MTProto), dynamic dispatch, and raw TCP performance.
-* *More modules and FOSS tooling coming soon.*
 
 ## 📚 Resources
 * [**Official Wiki**](https://github.com/GoyGram/GoyGram/wiki) — 55+ pages of hardcore documentation. Read the manual.
