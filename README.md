@@ -1,7 +1,7 @@
 # 🏴‍☠️ The GoyGram Project
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/GoyGram/GoyGram/refs/heads/main/GoyGram.png](https://raw.githubusercontent.com/GoyGram/GoyGram/refs/heads/main/GoyGram.png)" alt="GoyGram Logo" width="650">
+  <img src="[https://raw.githubusercontent.com/sepiol026-wq/GoyGram/refs/heads/main/GoyGram.png](https://raw.githubusercontent.com/sepiol026-wq/GoyGram/refs/heads/main/GoyGram.png)" alt="GoyGram Logo" width="650">
 </p>
 
 **Production-grade speed, absolute control, and maximum OpSec.**
