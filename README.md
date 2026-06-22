@@ -22,7 +22,7 @@ Our tools are built on three core pillars:
 * *More modules and FOSS tooling coming soon.*
 
 ## 📚 Resources
-* [**Official Wiki**](https://github.com/GoyGram/GoyGram/wiki) — 55+ pages of hardcore documentation. Read the manual.
+* [**Official Docs**](https://goygram.github.io/docs) — 55+ pages of hardcore documentation. Read the manual.
 * [**PyPI Package**](https://pypi.org/project/goygram/) — Pre-built wheels for Linux, Windows, and macOS (x86-64 + ARM64).
 
 ---
