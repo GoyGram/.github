@@ -6,7 +6,7 @@
 
 **Production-grade speed, absolute control, and maximum OpSec.**
 
-Welcome to the official GitHub organization for the GoyGram project. We build low-level, split-brain Telegram tooling that strips away enterprise bloat in favor of surgical precision. 
+Welcome to the official GitHub organization for the GoyGram project. We build low-level, hybrid Telegram tooling that strips away enterprise bloat in favor of surgical precision. 
 
 ## ⚡ Our Philosophy
 We believe that developers interacting with Telegram's API and MTProto protocols shouldn't be handcuffed by heavy abstractions, hidden background tasks, or memory-hogging Pydantic classes. 
